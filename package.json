@@ -1,8 +1,8 @@
 {
-  "name": "recorder",
+  "name": "@zonesoundcreative/web-recorder",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/recorder.min.js",
   "scripts": {
     "dev": "webpack-dev-server --config webpack.dev.config.babel.js --mode development",
     "build": "webpack --mode production",
